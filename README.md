@@ -25,3 +25,5 @@ La aplicación debe incluir un carrito y una vista de detalle por cada pizza sel
 catálogo ubicado en la vista principal.
 Para la estética de esta aplicación contará con algunas imágenes de referencia, sin
 embargo, el diseño quedará a su criterio siempre y cuando cumpla con los requerimientos.
+
+Link https://main--lucent-blini-45d0f3.netlify.app/
