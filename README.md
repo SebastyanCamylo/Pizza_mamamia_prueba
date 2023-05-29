@@ -26,4 +26,4 @@ catálogo ubicado en la vista principal.
 Para la estética de esta aplicación contará con algunas imágenes de referencia, sin
 embargo, el diseño quedará a su criterio siempre y cuando cumpla con los requerimientos.
 
-Link https://main--lucent-blini-45d0f3.netlify.app/
+Link (https://main--lucent-blini-45d0f3.netlify.app/)
