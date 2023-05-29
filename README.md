@@ -10,7 +10,9 @@ disponible en el LMS correspondiente al módulo.
 Prueba - Mamma Mia!
 
 Habilidades
+
 ● Utilizar React Router para controlar rutas y redireccionamientos.
+
 ● Utilizar Context API almacenar y modificar el estado global.
 
 Descripción
